@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 242.08 134.73"><defs><style>
+  @keyframes shake {
+    0%, 90% {
+      transform: translate3d(0,0, 0);
+    }
+
+    20%, 80% {
+      transform: translate3d(0,1px, 0);
+    }
+
+    30%, 50%, 70% {
+      transform: translate3d(0,0, 0);
+    }
+
+    40%, 60% {
+      transform: translate3d(0, 2px, 0);
+    }
+  }
+  .cls-2 {animation: shake 10s linear infinite;}
+  
+  
+  .cls-1,.cls-2{stroke:#231f20;stroke-miterlimit:10;stroke-width:0.6px;}.cls-1{fill:url(#linear-gradient);}.cls-2{fill:url(#linear-gradient-2);}</style><linearGradient id="linear-gradient" x1="122.74" y1="134.43" x2="122.74" y2="7.71" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#a9abae"/><stop offset="0.17" stop-color="#f8f8f9"/><stop offset="0.29" stop-color="#fff"/><stop offset="0.36" stop-color="#fff"/><stop offset="0.5" stop-color="#f8f8f9"/><stop offset="1" stop-color="#d1d3d4"/></linearGradient><linearGradient id="linear-gradient-2" x1="119.34" y1="127.02" x2="119.34" y2="0.3" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#efeff0"/><stop offset="0.17" stop-color="#f8f8f9"/><stop offset="0.36" stop-color="#fff"/><stop offset="0.69" stop-color="#fff"/><stop offset="0.85" stop-color="#f8f8f9"/><stop offset="1" stop-color="#ebebec"/></linearGradient></defs><title>cloud</title><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><path class="cls-1" d="M241.78,93.49c0,21.59-23.38,39.08-52.22,39.08q-2.2,0-4.35-.13a27.58,27.58,0,0,1-10.32,2H62.5a27.55,27.55,0,0,1-10-1.85c-27,0-48.82-16-48.82-35.68C3.7,81.54,17,68.46,35.65,63.43a46.7,46.7,0,0,1,87.43-30.21,57.09,57.09,0,0,1,14.27-1.79c19.08,0,35.85,9.29,45.44,23.3,2.22-.21,4.48-.33,6.78-.33C218.4,54.4,241.78,71.9,241.78,93.49Z"/><path class="cls-2" d="M238.38,86.08c0,21.59-23.38,39.08-52.22,39.08q-2.2,0-4.35-.13a27.58,27.58,0,0,1-10.32,2H59.1a27.55,27.55,0,0,1-10-1.85c-27,0-48.82-16-48.82-35.68C.3,74.13,13.6,61,32.25,56a46.7,46.7,0,0,1,87.43-30.21A57.09,57.09,0,0,1,133.95,24c19.08,0,35.85,9.29,45.44,23.3,2.22-.21,4.48-.33,6.78-.33C215,47,238.38,64.49,238.38,86.08Z"/></g></g></svg>

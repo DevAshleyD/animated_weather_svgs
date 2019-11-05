@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 343.42 224.53"><defs><style>
+  @keyframes flash {
+    from{opacity: 1;}
+    to{opacity: 0;}
+  }
+  @keyframes shake {
+  0%, 90% {
+    transform: translate3d(0,0, 0);
+  }
+  
+  20%, 80% {
+    transform: translate3d(0,3px, 0);
+  }
+
+  30%, 50%, 70% {
+    transform: translate3d(0,0, 0);
+  }
+
+  40%, 60% {
+    transform: translate3d(0, 5px, 0);
+  }
+}
+  .cls-1,.cls-2,.cls-3,.cls-4 {
+    animation: shake 8s cubic-bezier(.36,.07,.19,.97) both infinite;
+  }
+  
+  #f1 {animation:flash 2s infinite}
+  #f2{animation:flash 1s infinite}
+  #f3{animation:flash 1.5s infinite}
+  
+  .cls-1,.cls-2{stroke:#231f20;stroke-width:0.64px;}.cls-1,.cls-2,.cls-3,.cls-4,.cls-5{stroke-miterlimit:10;}.cls-1{fill:url(#linear-gradient);}.cls-2{fill:url(#linear-gradient-2);}.cls-3,.cls-4{stroke:#a7a9ac;stroke-width:0.73px;}.cls-3{fill:url(#linear-gradient-3);}.cls-4{fill:url(#linear-gradient-4);}.cls-5{fill:#fff200;stroke:#f7941d;stroke-width:0.38px;}</style><linearGradient id="linear-gradient" x1="227.98" y1="108.84" x2="227.98" y2="0.32" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#545456"/><stop offset="1" stop-color="#797a7d"/></linearGradient><linearGradient id="linear-gradient-2" x1="231.05" y1="115.59" x2="231.05" y2="7.07" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#6b6c6f"/><stop offset="1" stop-color="#a9abae"/></linearGradient><linearGradient id="linear-gradient-3" x1="116.56" y1="143.2" x2="116.56" y2="22.96" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#a9abae"/><stop offset="0.17" stop-color="#f8f8f9"/><stop offset="0.29" stop-color="#fff"/><stop offset="0.36" stop-color="#fff"/><stop offset="0.5" stop-color="#f8f8f9"/><stop offset="1" stop-color="#d1d3d4"/></linearGradient><linearGradient id="linear-gradient-4" x1="113.33" y1="136.17" x2="113.33" y2="15.92" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#efeff0"/><stop offset="0.17" stop-color="#f8f8f9"/><stop offset="0.36" stop-color="#fff"/><stop offset="0.69" stop-color="#fff"/><stop offset="0.85" stop-color="#f8f8f9"/><stop offset="1" stop-color="#ebebec"/></linearGradient></defs><title>lightning</title><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><path class="cls-1" d="M303.07,40.62c0-.12,0-.23,0-.34,0-16.32-18.14-29.55-40.51-29.55a55,55,0,0,0-10,.9,46.75,46.75,0,0,0-64.26,3.11,38.69,38.69,0,0,0-55.19,30.91h0C122.74,51,115.94,59.84,115.94,69.83c0,16.32,18.13,29.55,40.5,29.55a55.27,55.27,0,0,0,9-.73c-1-.76-1.87-1.56-2.72-2.38a23,23,0,0,0,7.3,1.18h.83a53.74,53.74,0,0,1-5.41,1.2c7.89,6.27,19.08,10.19,31.5,10.19A52.31,52.31,0,0,0,225.24,101a52.31,52.31,0,0,0,28.29,7.89,53.15,53.15,0,0,0,26-6.49A55.61,55.61,0,0,0,296.78,105C320.67,105,340,90.54,340,72.66,340,56.38,324,42.9,303.07,40.62ZM268,96.94l.17,0h0Z"/><path class="cls-2" d="M306.14,47.37c0-.12,0-.23,0-.34,0-16.32-18.14-29.55-40.51-29.55a55,55,0,0,0-10,.9,46.75,46.75,0,0,0-64.26,3.11A38.69,38.69,0,0,0,136.22,52.4h0C125.81,57.75,119,66.59,119,76.58c0,16.32,18.13,29.55,40.5,29.55a55.27,55.27,0,0,0,9-.73c-1-.76-1.87-1.56-2.72-2.38a23,23,0,0,0,7.3,1.18h.83a53.74,53.74,0,0,1-5.41,1.2c7.89,6.27,19.08,10.19,31.5,10.19a52.31,52.31,0,0,0,28.29-7.89,52.31,52.31,0,0,0,28.29,7.89,53.15,53.15,0,0,0,26-6.49,55.61,55.61,0,0,0,17.27,2.69c23.89,0,43.25-14.5,43.25-32.38C343.1,63.13,327,49.65,306.14,47.37ZM271,103.7l.17,0h0Z"/><path class="cls-3" d="M229.52,104.36c0,20.49-22.19,37.09-49.55,37.09q-2.09,0-4.13-.13a26.17,26.17,0,0,1-9.79,1.88H59.39a26.14,26.14,0,0,1-9.47-1.76c-25.6,0-46.33-15.18-46.33-33.85,0-14.57,12.62-27,30.32-31.77a44.31,44.31,0,0,1,83-28.66,54.18,54.18,0,0,1,13.54-1.7c18.1,0,34,8.81,43.12,22.11,2.1-.2,4.25-.31,6.43-.31C207.33,67.26,229.52,83.87,229.52,104.36Z"/><path class="cls-4" d="M226.29,97.33c0,20.49-22.19,37.09-49.55,37.09q-2.09,0-4.13-.13a26.17,26.17,0,0,1-9.79,1.88H56.16a26.14,26.14,0,0,1-9.47-1.76C21.1,134.38.37,119.24.37,100.56.37,86,13,73.57,30.68,68.79a44.31,44.31,0,0,1,83-28.66,54.18,54.18,0,0,1,13.54-1.7c18.1,0,34,8.81,43.12,22.11,2.1-.2,4.25-.31,6.43-.31C204.1,60.23,226.29,76.83,226.29,97.33Z"/><polygon class="cls-5" id="f1" points="113.33 156.93 105.63 168.66 104.8 169.81 66.09 223.24 86.7 169.81 53.94 169.81 84.58 120.51 101.31 120.51 80.87 156.93 113.33 156.93"/><polygon class="cls-5" id="f2" points="201.82 141.02 194.13 152.75 193.3 153.89 154.58 207.32 175.2 153.89 142.44 153.89 173.08 104.6 189.81 104.6 169.37 141.02 201.82 141.02"/><polygon class="cls-5" id="f3" points="288.91 128.26 281.21 139.99 280.38 141.14 241.66 194.57 262.28 141.14 229.52 141.14 260.16 91.84 276.89 91.84 256.45 128.26 288.91 128.26"/></g></g></svg>

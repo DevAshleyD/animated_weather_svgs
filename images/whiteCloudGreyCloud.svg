@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 307.8 152.19"><defs><style>
+  @keyframes shake {
+    0%, 90% {
+      transform: translate3d(0,0, 0);
+    }
+
+    20%, 80% {
+      transform: translate3d(0,1px, 0);
+    }
+
+    30%, 50%, 70% {
+      transform: translate3d(0,0, 0);
+    }
+
+    40%, 60% {
+      transform: translate3d(0, 2px, 0);
+    }
+  }
+  .cls-4 {animation: shake 10s linear infinite;}
+  .cls-2 {animation: shake 8s linear infinite;}
+  
+  .cls-1,.cls-2{stroke:#231f20;stroke-width:0.51px;}.cls-1,.cls-2,.cls-3,.cls-4{stroke-miterlimit:10;}.cls-1{fill:url(#linear-gradient);}.cls-2{fill:url(#linear-gradient-2);}.cls-3,.cls-4{stroke:#a7a9ac;stroke-width:0.73px;}.cls-3{fill:url(#linear-gradient-3);}.cls-4{fill:url(#linear-gradient-4);}</style><linearGradient id="linear-gradient" x1="216.23" y1="86.34" x2="216.23" y2="0.25" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#545456"/><stop offset="1" stop-color="#797a7d"/></linearGradient><linearGradient id="linear-gradient-2" x1="218.66" y1="91.7" x2="218.66" y2="5.61" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#6b6c6f"/><stop offset="1" stop-color="#a9abae"/></linearGradient><linearGradient id="linear-gradient-3" x1="116.56" y1="151.82" x2="116.56" y2="31.57" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#a9abae"/><stop offset="0.17" stop-color="#f8f8f9"/><stop offset="0.29" stop-color="#fff"/><stop offset="0.36" stop-color="#fff"/><stop offset="0.5" stop-color="#f8f8f9"/><stop offset="1" stop-color="#d1d3d4"/></linearGradient><linearGradient id="linear-gradient-4" x1="113.33" y1="144.79" x2="113.33" y2="24.54" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#efeff0"/><stop offset="0.17" stop-color="#f8f8f9"/><stop offset="0.36" stop-color="#fff"/><stop offset="0.69" stop-color="#fff"/><stop offset="0.85" stop-color="#f8f8f9"/><stop offset="1" stop-color="#ebebec"/></linearGradient></defs><title>whiteCloudGreyCloud</title><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><path class="cls-1" d="M275.79,32.23c0-.09,0-.18,0-.27,0-12.95-14.39-23.44-32.14-23.44a43.6,43.6,0,0,0-7.91.72,37.09,37.09,0,0,0-51,2.46A30.69,30.69,0,0,0,141,36.21h0c-8.26,4.24-13.65,11.25-13.65,19.18,0,12.95,14.38,23.44,32.13,23.44a43.85,43.85,0,0,0,7.15-.58c-.76-.6-1.48-1.24-2.16-1.89a18.22,18.22,0,0,0,5.79.94h.66a42.63,42.63,0,0,1-4.29.95c6.26,5,15.14,8.08,25,8.08a41.5,41.5,0,0,0,22.44-6.26,41.5,41.5,0,0,0,22.44,6.26,42.17,42.17,0,0,0,20.61-5.15,44.12,44.12,0,0,0,13.7,2.13c19,0,34.31-11.5,34.31-25.69C305.11,44.72,292.38,34,275.79,32.23ZM247.93,76.91l.14,0h0Z"/><path class="cls-2" d="M278.23,37.58c0-.09,0-.18,0-.27,0-12.95-14.39-23.44-32.14-23.44a43.6,43.6,0,0,0-7.91.72,37.09,37.09,0,0,0-51,2.46,30.69,30.69,0,0,0-43.78,24.52h0c-8.26,4.24-13.65,11.25-13.65,19.18,0,12.95,14.38,23.44,32.13,23.44a43.85,43.85,0,0,0,7.15-.58c-.76-.6-1.48-1.24-2.16-1.89a18.22,18.22,0,0,0,5.79.94h.66a42.63,42.63,0,0,1-4.29.95c6.26,5,15.14,8.08,25,8.08a41.5,41.5,0,0,0,22.44-6.26,41.5,41.5,0,0,0,22.44,6.26,42.17,42.17,0,0,0,20.61-5.15,44.12,44.12,0,0,0,13.7,2.13c19,0,34.31-11.5,34.31-25.69C307.55,50.08,294.81,39.39,278.23,37.58ZM250.37,82.26l.14,0h0Z"/><path class="cls-3" d="M229.52,113c0,20.49-22.19,37.09-49.55,37.09q-2.09,0-4.13-.13a26.17,26.17,0,0,1-9.79,1.88H59.39a26.14,26.14,0,0,1-9.47-1.76c-25.6,0-46.33-15.18-46.33-33.85,0-14.57,12.62-27,30.32-31.77a44.31,44.31,0,0,1,83-28.66,54.18,54.18,0,0,1,13.54-1.7c18.1,0,34,8.81,43.12,22.11,2.1-.2,4.25-.31,6.43-.31C207.33,75.88,229.52,92.48,229.52,113Z"/><path class="cls-4" d="M226.29,105.94c0,20.49-22.19,37.09-49.55,37.09q-2.09,0-4.13-.13a26.17,26.17,0,0,1-9.79,1.88H56.16A26.14,26.14,0,0,1,46.7,143C21.1,143,.37,127.85.37,109.18c0-14.57,12.62-27,30.32-31.77a44.31,44.31,0,0,1,83-28.66A54.18,54.18,0,0,1,127.19,47c18.1,0,34,8.81,43.12,22.11,2.1-.2,4.25-.31,6.43-.31C204.1,68.85,226.29,85.45,226.29,105.94Z"/></g></g></svg>
